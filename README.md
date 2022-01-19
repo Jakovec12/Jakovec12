@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jakovec12
+- 👀 I’m interested in desktop, web & mobile applications.
+- 🌱 I’m currently learning OOP on C# and Java and later looking to learn more languages for mobile development.
+- 💞️ I’m looking to collaborate on (to be edited...)
+- 📫 How to reach me (to be edited...)
